@@ -1,9 +1,11 @@
 {
   "name": "cinemaddict",
-  "author": "Nemtsev Konstantin <nemtsevk@hotmail.com> (https://github.com/nemtsev-k)",
-  "description": "Проект «Киноман» от HTML Academy",
-  "homepage": "https://nemtsev-k.github.io/cinemaddict/",
+  "author": "Nemtsev Konstantin <nemtsevk@hotmail.com> (https://github.com/NemtsevK)",
+  "description": "Личный проект «Киноман»",
+  "homepage": "https://nemtsevk.github.io/cinemaddict/",
+  "repository": "https://github.com/NemtsevK/cinemaddict",
   "private": true,
+  "type": "module",
   "scripts": {
     "lint": "eslint src/",
     "build": "webpack --mode production",
